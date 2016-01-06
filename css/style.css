@@ -96,24 +96,30 @@ p {
 		padding: 10px;
 		padding-top:50px;
 	}
+
 	.splash {
 		margin-bottom: 25px;
 	}
+
 	ul {
 		padding-left:60px;
 		margin-left: 50px;
 		margin-right: 50px;
 		font-size: 0.8em
 	}
+
 	.splash img {
 		width: 50%;
 	}
+
 	h1 {
 		font-size: 2.5em;
 	}
+
 	p {
 		font-size: 0.8em
 	}
+
 	.work {
 		font-size: 1em;
 	}
