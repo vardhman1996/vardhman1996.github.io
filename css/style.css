@@ -22,8 +22,9 @@ a:hover, a.active {
 .header {
 	max-width: 850px;
 	margin: auto;
-	margin-bottom: 100px
+	margin-bottom: 50px
 }
+
 ul {	
 	font-size: 1.5em;
 	list-style: none;
@@ -38,7 +39,11 @@ li {
 
 .intro {
 	max-width: 850px;
-	margin: 0 auto;
+	margin: auto;
+	margin-bottom: 100px;
+}
+.intro img {
+	width: 40%;
 }
 h1 {
 	font-size: 3.5em;
@@ -48,4 +53,35 @@ p {
 	font-size: 1.2em;
 	color: #455A64;
 	letter-spacing: 0.05em;
+}
+
+.intro a:hover {
+	color:#78909C;
+}
+
+.work {
+	font-size: 1.7em;
+}
+
+.internship {
+	color: #EF6C00;
+}
+
+.footer {
+	padding-top: 15px;
+	text-align: center;
+	max-width: 850px;
+	margin: auto;
+}
+
+.footer a {
+	margin-right: 15px;
+}
+
+.love {
+	color: #DD2C00;
+}
+
+.footer p {
+	margin-left: -10px;
 }
