@@ -24,7 +24,6 @@ a:hover, a.active {
 	margin: auto;
 	margin-bottom: 50px;
 	text-align: center;
-
 }
 
 ul {	
@@ -48,6 +47,7 @@ li {
 .splash img {
 	width: 40%;
 }
+
 
 h1 {
 	font-size: 3.5em;
@@ -88,4 +88,26 @@ p {
 
 .footer p {
 	margin-left: -10px;
+}
+
+
+@media (max-width: 768px) {
+	.splash {
+		margin-bottom: 25px;
+	}
+	ul {
+		font-size: 0.8em
+	}
+	.splash img {
+		width: 50%;
+	}
+	h1 {
+		font-size: 2.5em;
+	}
+	p {
+		font-size: 0.8em
+	}
+	.work {
+		font-size: 1em;
+	}
 }

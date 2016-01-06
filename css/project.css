@@ -8,11 +8,11 @@
 }
 
 .project a {
-	color: #FF7043;
+	color: #66BB6A;
 }
 
 .project a:hover {
-	color: #FF3D00;
+	color: #2E7D32;
 }
 
 .hackathon {
@@ -27,4 +27,19 @@
 
 .hackathon a:hover {
 	color: #FF3D00;
+}
+
+@media (max-width: 768px) {
+	.splash {
+		margin-bottom: 25px;
+	}
+	ul {
+		font-size: 0.8em
+	}
+	h1 {
+		font-size: 2.5em;
+	}
+	h2 {
+		font-size: 2em;
+	}
 }
