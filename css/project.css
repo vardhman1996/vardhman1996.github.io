@@ -20,7 +20,6 @@
 	margin-top: 30px;
 }
 
-
 .hackathon a {
 	color: #FF7043;
 }
@@ -30,15 +29,25 @@
 }
 
 @media (max-width: 768px) {
+	html body {
+		padding: 10px;
+		padding-top: 50px;
+	}
+
 	.splash {
 		margin-bottom: 25px;
 	}
+
 	ul {
+		margin-left: 50px;
+		margin-right: 50px;
 		font-size: 0.8em
 	}
+
 	h1 {
 		font-size: 2.5em;
 	}
+
 	h2 {
 		font-size: 2em;
 	}
