@@ -1,7 +1,7 @@
 html body {
 	margin: 0;
 	padding: 50px;
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;	
 	letter-spacing: 0.2em;
 }
@@ -22,13 +22,15 @@ a:hover, a.active {
 .header {
 	max-width: 850px;
 	margin: auto;
-	margin-bottom: 50px
+	margin-bottom: 50px;
+	text-align: center;
+
 }
 
 ul {	
 	font-size: 1.5em;
 	list-style: none;
-	margin-left: -42px;
+	margin-left: 10px;
 }
 
 li {
@@ -37,14 +39,16 @@ li {
 	margin-right: 50px;
 }
 
-.intro {
+.splash {
 	max-width: 850px;
 	margin: auto;
 	margin-bottom: 100px;
+	text-align: center
 }
-.intro img {
+.splash img {
 	width: 40%;
 }
+
 h1 {
 	font-size: 3.5em;
 }
@@ -55,7 +59,7 @@ p {
 	letter-spacing: 0.05em;
 }
 
-.intro a:hover {
+.splash a:hover {
 	color:#78909C;
 }
 
