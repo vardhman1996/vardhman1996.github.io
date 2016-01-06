@@ -1,2 +1,3 @@
-# website2
-Another try on making a personal website :/
+# vardhman1996.github.io
+- My personal website.
+
