@@ -1,0 +1,42 @@
+html body {
+	margin: 0;
+	padding: 50px;
+	font-family: 'Open Sans';
+	font-weight: 400;	
+	letter-spacing: 0.2em;
+}
+
+a:visited, a:link {
+	text-decoration: none;
+  	color: #78909C;
+}
+
+a:hover, a.active {
+	color: #455A64;
+}
+
+.container {
+	display: block;
+}
+
+.header {
+	max-width: 850px;
+	margin: auto;
+	margin-bottom: 100px
+}
+ul {	
+	font-size: 1.5em;
+	list-style: none;
+	margin-left: -42px;
+}
+
+li {
+	text-decoration: none;
+	display: inline-block;
+	margin-right: 50px;
+}
+
+.intro {
+	max-width: 850px;
+	margin: 0 auto;
+}
