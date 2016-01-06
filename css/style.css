@@ -40,3 +40,12 @@ li {
 	max-width: 850px;
 	margin: 0 auto;
 }
+h1 {
+	font-size: 3.5em;
+}
+
+p {
+	font-size: 1.2em;
+	color: #455A64;
+	letter-spacing: 0.05em;
+}
