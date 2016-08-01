@@ -20,11 +20,11 @@
 	margin-top: 30px;
 }
 
-.hackathon a {
+.hackathon h3 {
 	color: #FF7043;
 }
 
-.hackathon a:hover {
+.hackathon h3:hover {
 	color: #FF3D00;
 }
 
